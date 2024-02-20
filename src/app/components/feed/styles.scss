@@ -1,0 +1,26 @@
+.story {
+    width: 40vw;
+    padding: 5px;
+    border-radius: 15px;
+    margin-bottom: 2%;
+    background-color: cornflowerblue;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: #000000;
+    padding-left: 10%;
+}
+
+.flex {
+    display: flex
+}
+
+.feed {
+    height: 70vh;
+    width: 80vw;
+    border: 1px solid #ffffff;
+    overflow: scroll;
+}
